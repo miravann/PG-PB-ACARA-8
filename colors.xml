@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_blue">#525BFF</color>
+    <color name="light_gray">#F4F4F4</color>
+    <color name="purple">#7256A6</color>
+    <color name="nav_icon">#B7B7B7</color>
+    <color name="nav_text">#B7B7B7</color>
+    <color name="purple_dark">#3700B3</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- Bottom Navigation Colors -->
+    <color name="nav_unselected">#757575</color>
+
+
+</resources>

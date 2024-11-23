@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Concert Ticket</string>
+        <string-array name="ticket_type_array">
+            <item>First Class Ticket</item>
+            <item>Business Class Ticket</item>
+            <item>Economy Class Ticket</item>
+        </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
